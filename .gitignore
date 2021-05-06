@@ -74,9 +74,11 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # Enrichment
+Content/MMSupermarket/**
 Content/WaterPlane/**
 Content/Blood_Words_Symbols/**
 Content/Blood_Miscellaneous/**
 Content/HighQualityStatueScans/**
-Content/ModularBuildings/**
+Content/Building/**
+Content/ModularBuildingSet/**
 Content/VillageHousePack_v1/**
