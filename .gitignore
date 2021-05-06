@@ -72,3 +72,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Enrichment
+Content/WaterPlane/**
+Content/Blood_Words_Symbols/**
+Content/Blood_Miscellaneous/**
+Content/HighQualityStatueScans/**
+Content/ModularBuildings/**
+Content/VillageHousePack_v1/**
